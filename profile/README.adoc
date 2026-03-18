@@ -1,0 +1,24 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+:hide-uri-scheme:
+:figure-caption!:
+
+= JBossWS
+
+*JBossWS - Web Services Framework for WildFly*
+
+Here you can find our https://github.com/jbossws/jbossws-cxf[main repository], and all projects around JBossWS.
+
+If you are looking to get started with JBossWS check out our https://jbossws.github.io/docs[main documentation].
+
+We are tracking our issues in the https://redhat.atlassian.net/browse/JBWS[JBWS Issue Tracker].
+
+'''
+
+JBossWS is a project member of the https://www.commonhaus.org[Commonhaus Foundation].
+
